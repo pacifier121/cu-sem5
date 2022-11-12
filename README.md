@@ -1,30 +1,26 @@
-## ecommerce website with PHP MYSQLI BS AJAX JS
+## E-Commerce Website made wiht PHP, MySQL and Bootstrap 
 
-# sql back up avalible in sql folder 
-
-## login
+## To login, we can use this testing account:
 * usermail : test@test.com
 * password : 123456789
 
-## features
-* register (validation added)
-* login & logout
-* search
-* categories
-* cart (add edit delete update) /only login user 
-* payment with paypal
-* pagenation 
-* sessions 
-* payment success fail landing pages 
+## Features of the project: 
+* Register (With some input validation added)
+* Login & logout functionality
+* Searching through products catalogue
+* Categories of different products
+* Cart (add/ edit/ delete/ update) Only access to user logged in
+* Pagenation 
+* Sessions 
 
-# tools
-* bootstrap 3.7 (if you use 4.0 replace panel with card)
+# Tools used in building this project:
+* Bootstrap 3.7 for all the styling work 
 * jquery 
-* js
-* fontawesome
-* mysqli 
+* JS
+* Fontawesome (for beautiful font icons)
+* MySQL (as database)
 
-# screen shots 
+# Some screenshots of project:
 ![Home](/screenshots/homepage.png)
 ![cartpage](/screenshots/cart view.png)
 ![cart](/screenshots/cart.png)
