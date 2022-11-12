@@ -22,7 +22,5 @@
 
 # Some screenshots of project:
 ![Home](/screenshots/homepage.png)
-![cartpage](/screenshots/cart view.png)
-![cart](/screenshots/cart.png)
 ![signin](/screenshots/signin.png)
 ![signup](/screenshots/signup.png)
